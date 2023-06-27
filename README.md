@@ -2,7 +2,7 @@
 
 Code accompanying my master's thesis.
 
-# Abstract
+### Abstract
 Through the years of technical evolution, people have found ways to introduce classification into a wide variety of fields, from healthcare to industrial
 production. Support vector machine is a machine learning algorithm used
 for the purpose of solving classification tasks. It’s ability to handle datasets
